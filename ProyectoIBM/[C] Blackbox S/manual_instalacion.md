@@ -11,10 +11,9 @@
    python Interfas.py
 
 5. El programa generará:
-   - Gráfica de puntos originales de la Blackbox
-   - Interpolación con spline cúbico
+   - Gráfica de puntos de la Blackbox
+   - Ajuste polinomial
    - Ajuste por mínimos cuadrados usando modelo sen(x)/x
    - Comparación entre métodos
-   - Gráfica de error relativo
+   - Comparacion de errores
 
-6. Los resultados numéricos se mostraran en la grafica de error relativo.
